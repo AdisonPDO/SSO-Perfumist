@@ -1,0 +1,18 @@
+.login-pf body {
+    background: rgb(255, 255, 255) none;
+}
+
+
+.pf-c-button.pf-m-primary {
+    color: var(--pf-c-button--m-primary--Color);
+    background-color: #CC0000;
+    border-radius: 5px;
+}
+
+.login-pf-page .card-pf {
+    background: #cc000014;
+}
+
+.pf-c-form-control {
+    --pf-c-form-control--hover--BorderBottomColor: #c00;
+}
